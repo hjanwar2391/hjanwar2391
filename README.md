@@ -18,6 +18,11 @@ A passionate **Computer Science enthusiast** and **Freelance Software Developer*
 
 ## 🏆 Achievements
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=hjanwar2391&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=hjanwar2391&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hjanwar2391&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 - Solved **500+ problems** on **Codeforces** and **HackerRank**, ranking in the **top 10%**.  
 - Earned certifications in:  
   - **HackerRank:** [Problem Solving (Basic)](https://www.hackerrank.com/certificates/12b76d0a4d07)  
